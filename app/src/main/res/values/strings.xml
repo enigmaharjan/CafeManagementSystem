@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cafe Management System</string>
+    <string name="title_activity_admin_dashboard">AdminDashboard</string>
+    <string name="title_activity_staff_dashboard">StaffDashboard</string>
+</resources>
